@@ -1,5 +1,4 @@
 module.exports = {
-    base:'/blog/',
     title: 'wdss博客',
     description: 'wdss blog',
     home: true,
